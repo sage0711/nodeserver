@@ -10,7 +10,7 @@
   "author": "Anatoli morozov",
   "license": "ISC",
   "dependencies": {
-    "@babel/cli": "^7.22.5",
+    "@babel/cli": "^7.27.0",
     "@babel/core": "^7.22.5",
     "@babel/node": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
